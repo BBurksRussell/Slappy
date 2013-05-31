@@ -1,16 +1,15 @@
 package baseball;
 public class AtBat {
-//This line is for commenting on git pushes.
+//This is a really boring comment that I am using to to test git pushes. 2.
 
 // This is a POJO called AtBat. The test class will instantiate this class in order to populate an at bat during a simulated baseball game.
-// This class will take several arguments, including pitch count, and a random integer. These will help to return an outcome of an at bat, for example, 
+// This class will take several arguments, including pest itch count, and a random integer. These will help to return an outcome of an at bat, for example, 
 // home run, hit, or strikeout.
 
 	//initialize local variables
-	int abno = 0;
+	int abno = 0;g
 	int randno = 0;
 	String [] atBatPoss = {"Strikeout","Hit","Score"};	//This string object is populated because we only want it to have discrete fields.
-	
 	//setters and getter generate local values for arguments passed from the test class.
 	public int getAbno() {
 		return abno;
