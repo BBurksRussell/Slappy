@@ -1,6 +1,6 @@
 package baseball;
 public class AtBat {
-//This is a really boring comment that I am using to to test git pushes. 2.
+//Git Comment! Cocktails at 7!
 
 // This is a POJO called AtBat. The test class will instantiate this class in order to populate an at bat during a simulated baseball game.
 // This class will take several arguments, including pest itch count, and a random integer. These will help to return an outcome of an at bat, for example, 
