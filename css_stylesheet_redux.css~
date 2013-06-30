@@ -1,0 +1,44 @@
+html{
+background-color:#999966;
+}
+
+div{
+background-color:#669999;
+border: solid black 5px;
+}
+
+.header{
+width:97.5%;
+height:25px;
+z-index:1;
+}
+
+.left{
+width:20%;
+float:left;
+margin-top:22px;
+margin-left
+}
+
+img{
+border: solid black 1px;
+width:19%;
+}
+
+.right{
+width:700px;
+margin-left: 30%;
+margin-top: 22px;
+margin-right: 2.5%;
+float:right;
+}
+
+.footer{
+width:97.5%;
+height:20px;
+clear:both;
+}
+
+.shadow{
+background-color:#996666;
+}

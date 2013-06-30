@@ -1,0 +1,81 @@
+@this is a style sheet that recreates the color scheme
+@of Kurt Vonneguts Cats Cradle published by Delta
+@fiction in 1998
+
+body{
+font-family:Organon;
+font-weight:arial;
+}
+
+div{
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+background-color:#355d3a;
+width:97.5%;
+font-family:Organon;
+
+
+}
+
+
+.background{
+background-color:#ed6c90;
+}
+
+#header{
+border-radius: 20px 20px 0px 0px;
+-moz-border-radius: 20px 20px 0px 0px;
+-webkit-border-radius: 20px 20px 0px 0px;
+height:150px;
+margin-bottom:10px;
+
+
+
+}
+#footer{
+border-radius: 0px 0px 20px 20px;
+-moz-border-radius: 0px 0px 20px 20px;
+-webkit-border-radius: 0px 0px 20px 20px;
+height:150px;
+margin-top:10px;
+
+}
+
+.bigv{
+background-color:#355d3a;
+border: 5px solid #000000;
+}
+
+.wrapper{
+background-color:#355d3a;
+border: 5px solid #000000;
+border-radius:0px;
+}
+
+#author{
+color:#81d4f9;
+}
+
+#title{
+color:#f45a22;
+}
+
+p{
+background-color:#141619;
+border-radius: 10px 10px 10px 10px;
+height:20px;
+color:#f45a22;
+width:200px;
+font-weight:bolder;
+padding-left:20px;
+}
+
+img{
+border:2px solid black;
+margin: 2px;
+padding-left:20px;
+
+#bold{
+font-weight:bold;
+}
