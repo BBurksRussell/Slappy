@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Cat's Cradle</title>
+<link href="../css/vonnegut.css" type="text/css" rel="stylesheet" />
+</head>
+<body class="background">
+	<div class="bigv" id="header">Title Bar</div>
+	<div class="wrapper">
+		<h1 class="bold" id="author">Welcome to KVs Drawings</h1>
+		<!-- AddThis Button BEGIN -->
+		<div class="addthis_toolbox addthis_default_style ">
+		<a class="addthis_button_preferred_1"></a>
+		<a class="addthis_button_preferred_2"></a>
+		<a class="addthis_button_preferred_3"></a>
+		<a class="addthis_button_preferred_4"></a>
+		<a class="addthis_button_compact"></a>
+		<a class="addthis_counter addthis_bubble_style"></a>
+		</div>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-51cf8c96352199c1"></script>
+		<!-- AddThis Button END -->
+		<img src="/home/ben/Pictures/vonn1.jpeg">
+		<p>vonn 1</p>
+		<img src="/home/ben/Pictures/vonn2.jpg">
+		<p>vonn 2</p>
+		<img src="/home/ben/Pictures/vonn3.jpg">
+		<p>vonn 3</p>
+		<img src="/home/ben/Pictures/vonn4.jpg">
+		<p>vonn 4</p>
+		<img src="/home/ben/Pictures/vonn5.jpg">
+		<p>vonn 5</p>
+		<img src="/home/ben/Pictures/vonn6.jpg">
+		<p>vonn 6</p>
+		<img src="/home/ben/Pictures/vonn7.jpg">
+		<p>vonn 7</p>
+		<img src="/home/ben/Pictures/vonn8.jpg">
+		<p>vonn 8</p>
+	</div>
+	<div class="bigv" id="footer"> More text for the footer</div>
+</body>
+
+</html>

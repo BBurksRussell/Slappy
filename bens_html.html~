@@ -1,0 +1,30 @@
+
+
+<html>
+
+<link href="../css/css_stylesheet.css" type="text/css" rel="stylesheet" />
+
+</head>
+<title>This is ben's first website</title>
+<body>
+	<div class="header">
+		<h2> This is the header	</h2>
+	</div>
+<div class="left">
+<ul>	<h3>Awwwww</h3>
+	<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1OdsL1GEXqpoMK5Dh8QnNfIIdW4DGBAZVNYkmz1Bill7h96CSQ"></li>
+	<li><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzm5l095Svww4fiVOiqkP92DJMTaM1I04fVjcMfjvHp37qDSbL"></li>
+	<li><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZRxKZaRyMMRGKmzSPLt2KfRrn35Tvq0MBYAvVwctOZR0dEHVGw"></li>
+	<li><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7FGMUt5ZgHabZiEOEjTqdXUT4-mgEWB5q37o8qC0HJANS1gXkCw"></li>
+</ul>
+</div>
+<div class="right">
+	<h3>this is the title of the main section</h3>
+		<p>hi, I'm the paragraph section, you might remember me from such other html documents as index.html</p>
+	</div>
+<div ="footer">Hi, I'm the footer. People walk all over me.</div>
+
+
+</body>
+
+</html>
